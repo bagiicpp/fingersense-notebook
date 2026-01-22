@@ -1,4 +1,4 @@
-# FingerSense 🖐️
+# FingerSense
 
 FingerSense is a machine learning project focused on **detecting hands in images and predicting how many fingers are being held up**.
 
